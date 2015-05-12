@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		5CB6296F1B02A38400E89134 /* JiwoRecruitmentTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JiwoRecruitmentTest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5CB629721B02A38400E89134 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5CB629721B02A38400E89134 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 0; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
